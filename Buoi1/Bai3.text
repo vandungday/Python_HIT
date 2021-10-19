@@ -1,0 +1,9 @@
+Những đặc trưng của ngôn ngữ python
++ Là một ngôn ngữ miễn phí, mình không phải trả tiền để code, download nó
++ Là một ngôn ngữ cú pháp đơn giản dễ hiểu
++ Được sử dụng để phụ vụ thiết kế các ứng dụng, web, AI, Bigdata
++ Chạy trên nhiều hệ điều hành 
++ Thuộc ngôn ngữ lập trình tự dịch và là ngôn ngữ hướng đối tượng
++ Hiện nay, python đang là ngôn ngữ được ưa chuộng nhất
++ Python chạy chậm hơn các ngôn ngữ như C++ vì sử dụng kiểu dữ liệu động, thay vì dùng kiểu dữ liệu tĩnh 
+và là ngôn ngữ thông dịch(dịch từng đoạn một thay vì dịch toàn bộ)
