@@ -11,9 +11,6 @@ def Nhap():
     n = int(input())
     a = list(map(int, input().split()))
     return a
-a= Nhap()
-print(a)
-
 def Tim(a: list,x:int):
     temp = 0
     for i in range(len(a)):
@@ -35,7 +32,8 @@ def Chen(a:list, x:int, y: int):
     else:
         a.insert(x, y)
     print(f'Mang sau khi chen so {y} vao vi tri {x} cua mang a la: {a}')
-
+a= Nhap()
+print(a)
 Tim(a,3)
 Xoa(a,1)
 Chen(a,0,8)
